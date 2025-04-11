@@ -9,7 +9,7 @@ import { initializeApp } from "firebase/app";
 // The web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCJcf3uMM0qxqFjJvEJoBINIWDxYW36Z5M",
+  apiKey: "APIKEY",
 
   authDomain: "sample-firebase-ai-app-365d1.firebaseapp.com",
 
